@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tutoriales</string>
+    <string name="helloworld">Hola mundo</string>
+    <string name="title">Encabezado</string>
+    <string name="mus.play">Reproducir</string>
+    <string name="mus.stop">Detener</string>
+    <string name="log.user">Usuario</string>
+    <string name="log.pass">Password</string>
+    <string name="def.btn">Button</string>
+
+</resources>
